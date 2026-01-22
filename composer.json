@@ -1,0 +1,15 @@
+{
+    "name": "naruto/architecture-mvc",
+    "autoload": {
+        "psr-4": {
+            "Naruto\\ArchitectureMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "reda-guemry",
+            "email": "guemryreda@gmail.com"
+        }
+    ],
+    "require": {}
+}
